@@ -6,6 +6,7 @@ package com.example.dagger2project;
 public class Time {
 
     public String myTime(){
-        return "11:37:11";
+
+        return "12:15':47";
     }
 }
